@@ -16,7 +16,7 @@ export default function Page() {
             className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}
           >
             <em className="font-bold not-italic">환영합니다. </em>
-            <strong>Welcome to Acme.</strong>{' '}
+            <strong>Acme에 오신것을 환영합니다.</strong>{' '}
             <span className="montserrat">This</span> is the example for the{' '}
             <a href="https://nextjs.org/learn/" className="text-blue-500">
               Next.js Learn Course
